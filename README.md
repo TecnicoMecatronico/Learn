@@ -1,2 +1,2 @@
-# Learn
-Aprentice Python
+Esté será el repositorio que use para mi aprendizaje en python.
+
