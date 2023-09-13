@@ -12,4 +12,4 @@ Mouredev
 https://www.youtube.com/@mouredev
 
 Pildoras informáticas
-https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+https://youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&si=BHOaj8tVs5SU3UNl
