@@ -4,9 +4,12 @@ Links:
 
 Flet
 https://www.youtube.com/playlist?list=PL2PZw96yQChyD79_mtqY_oBdyiCdRJnJa
+
 Soy Dalto
 https://www.youtube.com/@soydalto/featured
+
 Mouredev
 https://www.youtube.com/@mouredev
+
 Pildoras informáticas
 https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
